@@ -33,6 +33,12 @@
 - **保持寄存器 (Holding Registers)**: 10,000 個 (地址 0-9999)
 - **輸入寄存器 (Input Registers)**: 10,000 個 (地址 0-9999)
 
+### 網頁預覽
+
+<img width="1210" height="564" alt="Screenshot 2025-07-21 at 11 50 19" src="https://github.com/user-attachments/assets/1845af32-fa01-4e32-a3e7-8e29c34b22d6" />
+<img width="1011" height="523" alt="Screenshot 2025-07-21 at 11 51 50" src="https://github.com/user-attachments/assets/736d10dc-7967-4750-82e1-aba89f10076b" />
+
+
 ## 📦 安裝與編譯
 
 ### 系統需求
